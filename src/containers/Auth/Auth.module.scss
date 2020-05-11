@@ -12,12 +12,17 @@
     border: 2px solid #ccc;
     padding: 15px;
     border-radius: 15px;
-    width: 600px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
     background-color: #eee;
-    box-shadow: 2px 2px 15px rgba(0,0,0, .5);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .5);
+  }
+
+  & > div {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
   }
 
   input {

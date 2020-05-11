@@ -10,7 +10,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23d19f42-4ae3-4784-b754-3896e6ead404" name="Default Changelist" comment="" />
+    <list default="true" id="23d19f42-4ae3-4784-b754-3896e6ead404" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/form/formFrameworck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary/Auxiliary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Naviation/Drawer/Drawer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Naviation/Drawer/Drawer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizList/QuizList.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.module.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +104,8 @@
       <workItem from="1589011956929" duration="3823000" />
       <workItem from="1589059873044" duration="12770000" />
       <workItem from="1589103685611" duration="4950000" />
-      <workItem from="1589124436049" duration="32594000" />
+      <workItem from="1589124436049" duration="33446000" />
+      <workItem from="1589196226633" duration="9247000" />
     </task>
     <servers />
   </component>
@@ -124,22 +137,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="674" y="193" width="440" height="561" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1589117152595" />
-    <state width="1899" height="256" key="GridCell.Tab.0.bottom" timestamp="1589158467433">
+    <state width="1899" height="256" key="GridCell.Tab.0.bottom" timestamp="1589161545935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589158467433" />
-    <state width="1899" height="256" key="GridCell.Tab.0.center" timestamp="1589158467433">
+    <state width="1899" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1589161545935" />
+    <state width="1899" height="256" key="GridCell.Tab.0.center" timestamp="1589161545935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589158467433" />
-    <state width="1899" height="256" key="GridCell.Tab.0.left" timestamp="1589158467433">
+    <state width="1899" height="256" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1589161545935" />
+    <state width="1899" height="256" key="GridCell.Tab.0.left" timestamp="1589161545935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589158467433" />
-    <state width="1899" height="256" key="GridCell.Tab.0.right" timestamp="1589158467433">
+    <state width="1899" height="256" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1589161545935" />
+    <state width="1899" height="256" key="GridCell.Tab.0.right" timestamp="1589161545935">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="256" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589158467433" />
+    <state width="1899" height="256" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1589161545935" />
     <state width="1899" height="344" key="GridCell.Tab.1.bottom" timestamp="1588639426855">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

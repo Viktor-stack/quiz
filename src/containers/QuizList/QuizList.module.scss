@@ -6,6 +6,12 @@
   width: 100%;
   background: linear-gradient(90deg, #fd8355 0%, #f0567c 37%, #f79cbd 100%);
 
+  & > div {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+  }
+
   h1 {
     color: #fff;
   }
@@ -22,8 +28,12 @@
   }
 
   a {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
     text-decoration: none;
     color: #fff;
+
     &:hover {
       color: #1651ec;
     }
