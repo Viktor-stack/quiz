@@ -1,0 +1,16 @@
+.ActiveQuiz {
+  padding: 20px;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  margin: 0 10px;
+  box-sizing: border-box;
+}
+
+.Ouestion {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
